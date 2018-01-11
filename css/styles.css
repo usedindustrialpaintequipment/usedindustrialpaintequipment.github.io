@@ -5,7 +5,9 @@ body {
   text-align: center;
   background-color: grey;
 }
-
+footer {
+  padding: 2vh 0 5vh 0;
+}
 
 .rotate90 {
     -webkit-transform: rotate(90deg);
